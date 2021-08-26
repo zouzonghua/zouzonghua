@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zouzonghua&label=Profile%20views&color=0e75b6&style=flat" alt="zouzonghua" /> </p>
 
-<p width="100%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zouzonghua" alt="zouzonghua" /></a> </p>
+<p width="100%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  height="130" src="https://github-profile-trophy.vercel.app/?username=zouzonghua" alt="zouzonghua" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -13,8 +13,8 @@
 
 
 <div>
-    <p><img height="145" align="left" src="https://github-readme-stats.vercel.app/api?username=zouzonghua&count_private=true&include_all_commits=true&show_icons=true" /> </p>
-    <p><img height="145"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   /> </p>
+    <p><img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=zouzonghua&count_private=true&include_all_commits=true&show_icons=true" /> </p>
+    <p><img height="150"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   /> </p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
