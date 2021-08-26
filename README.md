@@ -5,5 +5,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zouzonghua&layout=compact" />
 </div>
 
-## 代码风格 [eslint](https://github.com/eslint/eslint), [prettier](https://github.com/prettier/prettier), [editorconfig](https://github.com/editorconfig/editorconfig)
-## 代码提交 [commitizen](https://github.com/commitizen/cz-cli), [angular 规范](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#), [lint-staged](https://github.com/okonet/lint-staged), [husky](https://github.com/typicode/husky) 
+## Code style [eslint](https://github.com/eslint/eslint), [prettier](https://github.com/prettier/prettier), [editorconfig](https://github.com/editorconfig/editorconfig)
+## Code commit [commitizen](https://github.com/commitizen/cz-cli), [angularjs conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#), [lint-staged](https://github.com/okonet/lint-staged), [husky](https://github.com/typicode/husky) 
