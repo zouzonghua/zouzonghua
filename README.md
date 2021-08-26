@@ -13,8 +13,8 @@
 
 
 <div>
-    <p><img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zouzonghua&count_private=true&include_all_commits=true&show_icons=true" /> </p>
-    <p><img height="165"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   /> </p>
+    <p><img height="100" align="left" src="https://github-readme-stats.vercel.app/api?username=zouzonghua&count_private=true&include_all_commits=true&show_icons=true" /> </p>
+    <p><img height="100"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   /> </p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
