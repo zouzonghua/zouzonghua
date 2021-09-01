@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm zouzonghua</h1>
-<h3 align="center">I am a frontend developer.</h3>
+<h3 align="center">A developer passionate about technology.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouzonghua&label=Profile%20views&color=0e75b6&style=flat" alt="zouzonghua" /> </p>
