@@ -21,5 +21,5 @@
 
 ## Code guide [standard-style](https://github.com/standard/standard), [airbnb-style-guide](https://github.com/airbnb/javascript)
 ## Code style [eslint](https://github.com/eslint/eslint), [prettier](https://github.com/prettier/prettier), [editorconfig](https://github.com/editorconfig/editorconfig)
-## Code commit [commitizen](https://github.com/commitizen/cz-cli), [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog), [angularjs-guide](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#), [lint-staged](https://github.com/okonet/lint-staged), [husky](https://github.com/typicode/husky) 
+## Code commit [angularjs-guide](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#), [commitizen](https://github.com/commitizen/cz-cli), [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog), [lint-staged](https://github.com/okonet/lint-staged), [husky](https://github.com/typicode/husky) 
 ## Code releases [standard-version](https://github.com/conventional-changelog/standard-version), [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
