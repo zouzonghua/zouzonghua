@@ -1,12 +1,11 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm zonghua</h1>
-<h3 align="center">A developer passionate about technology.</h3>
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm zonghua</p>
 
+### <p align="center">A developer passionate about technology.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zouzonghua&label=Profile%20views&color=0e75b6&style=flat" alt="zouzonghua" /> </p>
+<img src="https://komarev.com/ghpvc/?username=zouzonghua&label=Profile%20views&color=0e75b6&style=flat" alt="zouzonghua" />
 
-
-<p width="100%"  align="left"><img height="130"  src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   /> </p>
+<img height="130"  src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   />
 
 - 🌱 keep it simple, stupid
 
