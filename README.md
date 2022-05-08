@@ -7,6 +7,8 @@
 
 <img height="130"  src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   />
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zouzonghua&layout=compact&langs_count=100&hide=PHP,Perl)
+
 - 🔭 keep it simple, stupid
 
 - 🌱 I’m currently learning [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
