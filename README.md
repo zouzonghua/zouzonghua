@@ -9,7 +9,7 @@
 
 - 🔭 keep it simple, stupid
 
-- 🌱 I’m currently learning [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🌱 I’m currently learning [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [**Lua**](https://www.lua.org/)
 
 
 - <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="16" height="16"/> code style guide [BEM](https://en.bem.info/methodology/quick-start/), [stylelint](https://github.com/stylelint/stylelint), [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard), [stylelint-order](https://github.com/hudochenkov/stylelint-order), [stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order)
