@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=zouzonghua&label=Profile%20views&color=0e75b6&style=flat" alt="zouzonghua" />
 
-<img height="130"  src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   />
+<!--<img height="130"  src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   />-->
 
 - 🔭 keep it simple, stupid
 
