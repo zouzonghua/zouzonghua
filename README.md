@@ -9,7 +9,7 @@
 
 - minimalist
 
-- keep it simple, stupid
+- keep it simple, stupid!
 
 - I’m currently learning [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [**Lua**](https://www.lua.org/)
 
