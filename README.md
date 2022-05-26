@@ -7,7 +7,7 @@
 
 <!--<img height="130"  src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   />-->
 
-- minimalism
+- minimalist
 
 - keep it simple, stupid
 
