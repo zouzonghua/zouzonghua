@@ -1,5 +1,5 @@
 
-# <p align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm zonghua</p>
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm zonghua</p>
 
 <!-- ## <p align="center">A developer passionate about technology.</p> -->
 
