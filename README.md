@@ -11,8 +11,6 @@
 
 - keep it simple, stupid!
 
-- I’m currently learning [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [**Lua**](https://www.lua.org/), [**Emacs Lisp**](https://www.gnu.org/software/emacs/manual/html_node/eintr)
-
 <details>
 <summary>code specification </summary>
 
