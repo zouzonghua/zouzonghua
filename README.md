@@ -23,3 +23,30 @@
   
   
 </details>
+
+
+
+<details>
+<summary>equipment</summary>
+
+- MacBook Pro 2017
+
+- AirPods 2nd generation
+
+- iPhone XR
+- Xperia XZ2 Compact
+
+- Casio F-91W
+
+- Kindle Paperwhite 3
+
+- Western Digital My Book 10TB
+- SanDisk Ultra 32GB
+- SanDisk Cruzer Force 8GB
+
+
+- PHICOMM N1
+- Arduino UNO
+- ESP-01  
+
+</details>
