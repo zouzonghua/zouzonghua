@@ -29,7 +29,7 @@
 <details>
 <summary>equipment</summary>
 
-- MacBook Pro 2017
+- ThinkPad T480s
 
 - AirPods 2nd generation
 
