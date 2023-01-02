@@ -40,7 +40,6 @@
 
 - Kindle Paperwhite 3
 
-- Western Digital My Book 10TB
 - SanDisk Ultra 32GB
 - SanDisk Cruzer Force 8GB
 
