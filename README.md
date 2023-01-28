@@ -42,6 +42,7 @@
 
 - SanDisk Ultra 32GB
 - SanDisk Cruzer Force 8GB
+- Samsung SSD 850 120GB
 
 
 - PHICOMM N1
