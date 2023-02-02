@@ -34,7 +34,6 @@
 - AirPods 2nd generation
 
 - iPhone XR
-- Xperia XZ2 Compact
 
 - Casio F-91W
 
