@@ -31,11 +31,11 @@
 
 - ThinkPad T480s
 
-- AirPods 2nd generation
-
 - Sony MH750
 
 - iPhone XR
+
+- AirPods 2nd generation
 
 - Casio F-91W
 
