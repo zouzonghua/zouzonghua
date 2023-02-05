@@ -44,6 +44,7 @@
 - Samsung SSD 850 120GB
 
 
+- PHICOMM H1 * 2
 - PHICOMM N1
 - UFI903
 - Arduino UNO
