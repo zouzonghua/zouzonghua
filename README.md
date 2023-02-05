@@ -33,6 +33,8 @@
 
 - AirPods 2nd generation
 
+- Sony MH750
+
 - iPhone XR
 
 - Casio F-91W
