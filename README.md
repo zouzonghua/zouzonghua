@@ -31,6 +31,8 @@
 
 - ThinkPad T480s
 
+- Intel® NUC Kit NUC6CAYH
+
 - Sony MH750
 
 - iPhone XR
