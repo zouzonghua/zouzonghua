@@ -27,7 +27,7 @@
 
 
 <details>
-<summary>equipment</summary>
+<summary>desk setup tour</summary>
 
 - ThinkPad T480s
 
