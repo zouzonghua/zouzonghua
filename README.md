@@ -51,7 +51,6 @@
 
 - PHICOMM H1 * 2
 - PHICOMM N1
-- UFI903
 - Arduino UNO
 - ESP-01  
 
