@@ -47,6 +47,7 @@
 - SanDisk Cruzer Force 8GB
 - Samsung SSD 850 120GB
 - Western Digital WD5000LPVT 500GB
+- Western Digital WD5000LPVX 500GB
 
 
 - PHICOMM H1 * 2
