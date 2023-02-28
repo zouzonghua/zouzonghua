@@ -7,7 +7,7 @@
 
 <!--<img height="130"  src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   />-->
 
-- keep it simple, stupid!
+- Keep it simple stupid
 
 <details>
 <summary>code specification </summary>
