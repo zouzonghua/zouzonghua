@@ -31,6 +31,7 @@
 
 - ThinkPad T480s
   + Intel SSDPEKKF256G8L
+  + Samsung DDR4 8GB RAM
 
 - Intel® NUC Kit NUC6CAYH
   + Samsung SSD 850 120GB
