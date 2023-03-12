@@ -32,6 +32,8 @@
 - ThinkPad T480s
 
 - Intel® NUC Kit NUC6CAYH
+  + Samsung SSD 850 120GB
+  + Samsung DDR3L 4GB RAM * 2
 
 - Sony MH750
 
@@ -46,12 +48,11 @@
 - Arduino UNO
 - PHICOMM N1
 - PHICOMM H1 * 2
+  + Western Digital WD5000LPVT 500GB
+  + Western Digital WD5000LPVX 500GB
   
 - SanDisk Ultra 32GB
 - SanDisk Cruzer Force 8GB
-- Samsung SSD 850 120GB
-- Western Digital WD5000LPVT 500GB
-- Western Digital WD5000LPVX 500GB
 
 
 </details>
