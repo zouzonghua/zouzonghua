@@ -43,15 +43,15 @@
 
 - Kindle Paperwhite 3
 
+- Arduino UNO
+- PHICOMM N1
+- PHICOMM H1 * 2
+  
 - SanDisk Ultra 32GB
 - SanDisk Cruzer Force 8GB
 - Samsung SSD 850 120GB
 - Western Digital WD5000LPVT 500GB
 - Western Digital WD5000LPVX 500GB
 
-
-- PHICOMM H1 * 2
-- PHICOMM N1
-- Arduino UNO
 
 </details>
