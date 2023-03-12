@@ -30,6 +30,7 @@
 <summary>desk setup tour</summary>
 
 - ThinkPad T480s
+  + Intel SSDPEKKF256G8L
 
 - Intel® NUC Kit NUC6CAYH
   + Samsung SSD 850 120GB
