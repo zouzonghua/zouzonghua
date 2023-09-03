@@ -43,8 +43,6 @@
 
 - AirPods 2nd generation
 
-- Casio F-91W
-
 - Kindle Paperwhite 3
 
 - Arduino UNO
