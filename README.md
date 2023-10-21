@@ -48,8 +48,8 @@
 - Kindle Paperwhite 3
 
 - Arduino UNO
-- PHICOMM N1
-- PHICOMM H1 * 2
+- Phicomm N1
+- Phicomm H1 * 2
   + Western Digital WD5000LPVT 500GB
   + Western Digital WD5000LPVX 500GB
   
