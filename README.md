@@ -37,11 +37,13 @@
   + Samsung SSD 850 120GB
   + Samsung DDR3L 4GB RAM * 2
 
+- Motorola Moto G 5G (2022)
+  
+- Sony MH750
+  
 - iPhone XR
 
 - AirPods 2nd generation
-
-- Sony MH750
 
 - Kindle Paperwhite 3
 
