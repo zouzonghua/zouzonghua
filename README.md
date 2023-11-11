@@ -38,7 +38,7 @@
   + Samsung DDR3L 4GB RAM * 2
 
 - Nokia 1280
-- Motorola Moto G 5G (2022)
+- Motorola moto g 5G (2022)
   
 - Sony MH750
   
