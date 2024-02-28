@@ -7,8 +7,6 @@
 
 <!--<img height="130"  src="https://github-readme-streak-stats.herokuapp.com/?user=zouzonghua&" alt="zouzonghua"   />-->
 
-- Keep it simple stupid
-
 <details>
 <summary>desk setup tour</summary>
 
