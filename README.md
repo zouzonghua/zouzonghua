@@ -23,6 +23,8 @@
 - iPhone XR
 
 - AirPods 2nd generation
+- EarPods (3.5mm Headphone Plug)
+- Lightning to 3.5 mm Headphone Jack Adapter
 
 - Kindle Paperwhite 3
 
