@@ -15,6 +15,7 @@
 - Sony MH750
   
 - iPhone XR
+- Nokia 105 (2015)
 
 - AirPods 2nd generation
 - EarPods (3.5mm Headphone Plug)
