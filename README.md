@@ -17,7 +17,6 @@
 - iPhone XR
 - Nokia 105 (2015)
 
-- AirPods 2nd generation
 - EarPods (3.5mm Headphone Plug)
 - Lightning to 3.5 mm Headphone Jack Adapter
 
