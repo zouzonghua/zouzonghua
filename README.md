@@ -4,15 +4,11 @@
 <details>
 <summary>desk setup tour</summary>
 
-- ThinkPad T480s
-  + Intel SSDPEKKF256G8L
-  + Samsung DDR4 8GB RAM * 2
+- MacBook Air
 
 - Intel® NUC Kit NUC6CAYH
   + Samsung SSD 850 120GB
   + Samsung DDR3L 4GB RAM * 2
-  
-- Sony MH750
   
 - iPhone XR
 
@@ -21,6 +17,7 @@
 
 - Kindle Paperwhite 3
 
+- Phicomm T1
 - Phicomm N1
 - Phicomm H1 * 2
   + Western Digital WD5000LPVT 500GB
