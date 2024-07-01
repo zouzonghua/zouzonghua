@@ -4,7 +4,7 @@
 <details>
 <summary>desk setup tour</summary>
 
-- MacBook Air
+- MacBook Air (M1, 2020) 
 
 - Intel® NUC Kit NUC6CAYH
   + Samsung SSD 850 120GB
