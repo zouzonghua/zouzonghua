@@ -15,8 +15,6 @@
 - EarPods (3.5mm Headphone Plug)
 - Lightning to 3.5 mm Headphone Jack Adapter
 
-- Kindle Paperwhite 3
-
 - Phicomm T1
 - Phicomm N1
 - Phicomm H1 * 2
